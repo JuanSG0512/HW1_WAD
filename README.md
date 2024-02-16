@@ -7,5 +7,8 @@ In this first web application development task, the first part I made a basic fr
 -CSS
 -Python
 
+# link to see the entire project in itmo wad
+https://github.com/itmo-wad/HW1_Sebastian
+
 # Author
 Sebastian Guevara
